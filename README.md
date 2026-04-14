@@ -82,4 +82,4 @@ Technical Note
 This repository contains the static HTML/CSS source code for the website. The site is hosted on Vercel and uses Formspree for email forwarding.
 
 
-© 2026 LuxuryStayBali.com — Curated by the editors of LuxuryStayWorld
+© 2026 LuxuryStayBali.com — Curated by the editors of LuxuryStayWorld 
